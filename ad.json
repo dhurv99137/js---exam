@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "e5ba",
+      "username": "Dhruv",
+      "email": "hello@gmail.com",
+      "password": "hello amdwd"
+    },
+    {
+      "id": "68e3",
+      "username": "ravi",
+      "email": "ravi45@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "result": [
+    {
+      "id": "319e",
+      "Name": "ravi",
+      "Marth": "45",
+      "science": "74",
+      "english": "72"
+    },
+    {
+      "id": "6034",
+      "Name": "dhruv",
+      "Marth": "51",
+      "science": "83",
+      "english": "98"
+    }
+  ]
+}
